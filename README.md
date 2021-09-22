@@ -1,4 +1,4 @@
-# Kenzie Academy JavaScript Assignment
+# doggos in my area
 
 Complete your work inside of `code.js`
 
